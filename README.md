@@ -78,7 +78,7 @@ Andi juga memberikan pesan kepada teman-teman kalau diberi kebebasan untuk menam
 
 Flowchart untuk program Super Chasier adalah sebagai berikut:
 
-<img src="img/flowchart.png"/>
+<img src="img/Flowchart.png"/>
 
 ## Penjelasan Fungsi dan Attribute
 
